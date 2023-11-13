@@ -1,0 +1,20 @@
+.card {
+    width: 800px;
+    height: 800px;
+    display: block;
+    justify-content: center;
+    margin-top: 20px;
+}  
+
+.card img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/*.joke {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}*/

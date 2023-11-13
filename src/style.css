@@ -1,0 +1,7 @@
+.card-container {
+    display: flex;
+    justify-content: center;
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
